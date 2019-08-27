@@ -4,7 +4,7 @@ Android application source code.  《第一行代码》In action
 # Development note
 
 - AS 3.2: replace 'compile' to 'implementation' in build.gradle
-- failed to resolve dependencies like org.litepal
+- failed to resolve dependencies （for example: org.litepal）
 
 add maven url to allprojects item:
 
