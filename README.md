@@ -24,4 +24,4 @@ copy source file both bo drawable and drawable-v24
 
 # Screenshot
 
-<img src="https://raw.githubusercontent.com/rootrl/CoolWeather/fb6bc8e3d9cd53ed21baf3bea47068b3d6da83bc/screenshot.jpg" width="300" height="500">
+<img src="https://raw.githubusercontent.com/rootrl/CoolWeather/master/screenshot.jpg" width="300" height="500">
