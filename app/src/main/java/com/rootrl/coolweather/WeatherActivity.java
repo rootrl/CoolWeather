@@ -218,6 +218,7 @@ public class WeatherActivity extends AppCompatActivity {
      */
     private void showWeatherInfo(Weather weather) {
         String cityName = weather.basic.cityName;
+        Log.e(TAG, "showWeatherInfo: ============================= city name"  + cityName );
         String updateTime = weather.basic.update.updateTime.split(" ")[1];
         String degree = weather.now.temperature + "℃";
         String weatherInfo = weather.now.more.info;
