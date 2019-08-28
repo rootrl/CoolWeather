@@ -70,7 +70,7 @@ public class AddressUtil {
                     JSONObject countryObject = allCounties.getJSONObject(i);
 
                     County county = new County();
-                    county.setCountryName(countryObject.getString("name"));
+                    county.setCountyName(countryObject.getString("name"));
                     county.setWeatherId(countryObject.getString("weather_id"));
                     county.setCityId(cityId);
                     county.save();

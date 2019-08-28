@@ -17,3 +17,7 @@ allprojects {
     }
 }
 ```
+
+-  Resource is not a Drawable (color or path)
+
+copy source file both bo drawable and drawable-v24
